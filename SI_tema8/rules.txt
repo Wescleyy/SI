@@ -1,0 +1,5 @@
+incendio=enviar_alerta_bombeiros, acionar_geradores, desligar_energia
+invasao=enviar_alerta_policia, acionar_alarme
+falta_de_energia=acionar_geradores
+vazamento_de_gases=enviar_alerta_bombeiros, desligar_energia
+vazamento_de_agua=enviar_alerta_bombeiros, desligar_energia
